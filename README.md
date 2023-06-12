@@ -5,3 +5,5 @@
 
 # Requirements
 <h3>. Visual C++ Runtime</h3>
+# InComing
+<h3>[+] The Linux version will be available soon</h3>
